@@ -1,0 +1,7 @@
+bin/**
+Lib/**
+include/**
+results.txt
+wifi.txt
+log.txt
+venv/**
